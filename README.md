@@ -1,14 +1,11 @@
-### You're doing Well 👋 :expressionless: :bowtie:tech
+### You're doing Well 👋 :expressionless: :bowtie:
 
-
-> love tech related stuffs  
+> Love tech related stuffs  
 > Love building things
 
 
 ### Skills
-
 * HTML, CSS, JAVASCRIPT 
-
 * Learing PHP and NODE JS
 
 
