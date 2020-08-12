@@ -1,4 +1,20 @@
-# Hi there 👋
+### You're doing Well 👋 :expressionless: :bowtie:tech
+
+
+> love tech related stuffs  
+> Love building things
+
+
+### Skills
+
+* HTML, CSS, JAVASCRIPT 
+
+* Learing PHP and NODE JS
+
+
+
+
+
 
 <!--
 **miceuud/miceuud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
