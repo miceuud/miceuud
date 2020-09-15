@@ -5,7 +5,7 @@
 
 
 ### Skills
-* HTML, CSS, JAVASCRIPT 
+* CSS, JAVASCRIPT, VUEJS and  NODEJS
 * Learing PHP and NODE JS
 
 
