@@ -5,8 +5,8 @@
 
 
 ### Skills
-* CSS, JAVASCRIPT, VUEJS, MONGODB and NODEJS
-* Learning PHP and MYSQL 
+* JAVASCRIPT, VUEJS, MONGODB and NODEJS
+
 
 
 
